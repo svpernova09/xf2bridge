@@ -1,8 +1,6 @@
 <?php
 
-namespace App\Exceptions;
-
-use Exception;
+namespace swede2k\XF2Bridge\Visitor;
 
 class AuthenticationException extends Exception
 {
